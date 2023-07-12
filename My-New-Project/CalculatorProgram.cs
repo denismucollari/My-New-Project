@@ -41,7 +41,6 @@ namespace CalculatorProgram
                     Console.Write("This is not valid input. Please enter an integer value: ");
                     numInput2 = Console.ReadLine();
                 }
-
                 // Ask the user to choose an operator.
                 Console.WriteLine("Choose an operator from the following list:");
                 Console.WriteLine("\ta - Add");
